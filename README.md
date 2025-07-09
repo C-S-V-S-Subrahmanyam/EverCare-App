@@ -39,4 +39,4 @@ We welcome contributions! Feel free to fork the repository, create a branch, and
 This project is licensed under the **MIT License**.
 
 ## 📬 Contact
-For any queries or suggestions, please contact: [Your Email] or open an issue in the repository.
+For any queries or suggestions, please contact: subrahmanyam310308@gmail.com or open an issue in the repository.
