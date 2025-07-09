@@ -22,7 +22,7 @@
 - **Retirement Communities & Assisted Living Facilities** for medication monitoring.
 
 ## 📱 Download APK
-🔗 [Click Here to Download the APK](https://github.com/C-S-V-S-Subrahmanyam/EverCare-App/raw/refs/heads/main/app-debug.apk)
+🔗 [Click Here to Download the APK](https://github.com/C-S-V-S-Subrahmanyam/EverCare-App/raw/refs/heads/master/app-debug%20(6).apk)
 
 ## 🛠️ Tech Stack
 - **Programming Language:** Java  
